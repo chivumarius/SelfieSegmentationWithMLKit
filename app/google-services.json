@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553046341623",
+    "project_id": "selfiesegmentationwithmlkit",
+    "storage_bucket": "selfiesegmentationwithmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553046341623:android:4afd387de277a25d3120f2",
+        "android_client_info": {
+          "package_name": "com.chivumarius.selfiesegmentationwithmlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7bnQ2C7n8T7i7dVkue6CWxJclLDp_e2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
